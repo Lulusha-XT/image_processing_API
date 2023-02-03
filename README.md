@@ -1,6 +1,6 @@
 # Image Processing API
 
-##Basic image processing tasks such as resizing images.
+## Basic image processing tasks such as resizing images.
 
 ### Scripts
 
